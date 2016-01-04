@@ -1,0 +1,18 @@
+{
+  "name": "v-dom",
+  "version": "0.0.2",
+  "description": "html template convert to virtual dom",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "zdzDesigner",
+  "license": "ISC"
+}
