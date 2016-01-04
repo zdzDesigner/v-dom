@@ -1,7 +1,7 @@
 
 # Vdom (form html template to virtual dom)
 
-## Install
+## Install  
 
 `npm install v-dom`
 
@@ -107,6 +107,8 @@ vdom(document.getElementById('vdom'),html_tpl,function () {
 })
 
 ```
+
+[View on RequireBin](http://requirebin.com/?gist=c836dacdb3091ea2178f)
 
 
 ## License
