@@ -1,6 +1,6 @@
 {
   "name": "v-dom",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "html template convert to virtual dom",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,11 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "null"
+    "url": "https://github.com/zdzDesigner/v-dom"
   },
   "keywords": [
     "null"
   ],
   "author": "zdzDesigner",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  "virtual-dom": "^2.0.1"
+  }
 }
